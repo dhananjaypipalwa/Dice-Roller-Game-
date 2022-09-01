@@ -1,6 +1,6 @@
 # dice_roller
 
-A new Flutter project.
+This a full source code for Dice Roller Game. This game is created with flutter. Enjoy!!
 
 ## Getting Started
 
